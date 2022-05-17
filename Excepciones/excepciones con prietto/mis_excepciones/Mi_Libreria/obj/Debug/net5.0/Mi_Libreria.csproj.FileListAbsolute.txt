@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\bin\Debug\net5.0\Mi_Libreria.deps.json
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\bin\Debug\net5.0\Mi_Libreria.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\bin\Debug\net5.0\ref\Mi_Libreria.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\bin\Debug\net5.0\Mi_Libreria.pdb
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\obj\Debug\net5.0\Mi_Libreria.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\obj\Debug\net5.0\Mi_Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\obj\Debug\net5.0\Mi_Libreria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\obj\Debug\net5.0\Mi_Libreria.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\obj\Debug\net5.0\Mi_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\obj\Debug\net5.0\Mi_Libreria.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\obj\Debug\net5.0\ref\Mi_Libreria.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Ecxecpiones\Mis excepciones\mis_excepciones\Mi_Libreria\obj\Debug\net5.0\Mi_Libreria.pdb

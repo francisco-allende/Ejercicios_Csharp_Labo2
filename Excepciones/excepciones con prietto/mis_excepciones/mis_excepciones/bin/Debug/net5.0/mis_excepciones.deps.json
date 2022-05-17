@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mis_excepciones/1.0.0": {
+        "dependencies": {
+          "Mi_Libreria": "1.0.0"
+        },
+        "runtime": {
+          "mis_excepciones.dll": {}
+        }
+      },
+      "Mi_Libreria/1.0.0": {
+        "runtime": {
+          "Mi_Libreria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis_excepciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mi_Libreria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Generics_Cerizza/1.0.0": {
+        "dependencies": {
+          "Libreria": "1.0.0"
+        },
+        "runtime": {
+          "Generics_Cerizza.dll": {}
+        }
+      },
+      "Libreria/1.0.0": {
+        "runtime": {
+          "Libreria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generics_Cerizza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libreria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IecfEMW2Pu3NfhYxL/NIte+8mI1EUigo1+yQY5y7u93as9CT6pCG1xufaWAR4px0H5ryCU82yPWbD+O6HeloTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Generics\\Generics_Cerizza\\Generics_Cerizza\\Generics_Cerizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

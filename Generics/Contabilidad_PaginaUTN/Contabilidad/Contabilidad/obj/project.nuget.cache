@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfFRkK/B0m+8m/LFmRAqDUX2/dqd0RqrXtLCJzQxIHHldXxuPTh0o44KKzHFcIQPc/0uogxfFL6Cg4f+Ju+Gkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Generics\\Ejercicio_Contabilidad\\Contabilidad\\Contabilidad\\Contabilidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

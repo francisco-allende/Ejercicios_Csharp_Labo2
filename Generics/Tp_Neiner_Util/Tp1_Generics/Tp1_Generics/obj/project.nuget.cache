@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MtQi+7KQP5oCR/kk70xBnajof1TnKO4zQrsHHS7dNnvGGVADpaa6sIO5ykAawAtsnbofQ8T2X8g6+/qaysfEaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Generics\\Generics_Tp_Neiner1\\Tp1_Generics\\Tp1_Generics\\Tp1_Generics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

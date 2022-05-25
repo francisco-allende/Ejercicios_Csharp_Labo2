@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torneo", "Torneo\Torneo.csproj", "{ABC16540-1205-492A-8221-891AD51FB865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{5F949AA3-F119-4899-99DC-76110FDDE4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC16540-1205-492A-8221-891AD51FB865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC16540-1205-492A-8221-891AD51FB865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC16540-1205-492A-8221-891AD51FB865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC16540-1205-492A-8221-891AD51FB865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F949AA3-F119-4899-99DC-76110FDDE4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F949AA3-F119-4899-99DC-76110FDDE4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F949AA3-F119-4899-99DC-76110FDDE4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F949AA3-F119-4899-99DC-76110FDDE4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA802230-EBCC-4B58-8BD5-6E8E6BB202C9}
+	EndGlobalSection
+EndGlobal

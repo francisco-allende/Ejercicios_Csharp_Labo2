@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WyyChn7QQvfJNwD5fwPnvmWZcCSCpVDlXB4lpKLspBflHKeZ3OHSaJ+XDxyDMujNKC970cR3kMhsi7cLKkf5zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Archivos\\Modelo_Write_Read_Con_Interface\\Modelo_con_interface\\Modelo_con_interface\\Modelo_con_interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

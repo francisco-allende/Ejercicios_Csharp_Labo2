@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qz/1YbXQlnHPwVRh8XoalKaYE20ZFvn+XMslBwi4YqiuUqSq6jfp1t/u5CSIAGYx9H4HAYdsxvF/QJYdiEnO4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Serializador\\Serializer_Cerizza\\Modelo\\Modelo\\Modelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

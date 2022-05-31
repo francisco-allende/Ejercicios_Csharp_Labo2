@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uod+HKJqr7AA/8Cun4Ytfw+glJGXf1L7VK36h8e5SN7To3vVpc36zZEpWPSeKPaqYkg3oGcqehiy1kpldHQQaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Serializador\\Serializer_Prietto\\Modelo JSON\\modelo_json\\modelo_json\\modelo_json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

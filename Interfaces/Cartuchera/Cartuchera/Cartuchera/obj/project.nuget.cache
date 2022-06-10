@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YHOCP674zfM/a6LgWB/LwOc8AbaZY6YGuL1w2sL7yNJziBhdbat9IieyBBMFRTg89Sc7sFTQy22cAGnzk7FwIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Interfaces\\Cartuchera\\Cartuchera\\Cartuchera\\Cartuchera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

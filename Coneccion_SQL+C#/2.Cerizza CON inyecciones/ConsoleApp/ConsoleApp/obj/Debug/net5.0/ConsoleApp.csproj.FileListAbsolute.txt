@@ -1,0 +1,50 @@
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\Cerizza\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Usuario\Desktop\UTN tecnicatura\2do cuatri\Labo 2\EJERCICIOS PIOLA para entender yo\Coneccion_SQL+C#\2.Cerizza CON inyecciones\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache

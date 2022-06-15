@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XyEmCe2/TnRO+3DylvJIDrtlFthCkN3pJy67l95EIIRRTRSYDSUoTo0m0N3UsMNK6iAtG7gmaIEkLYTUKD+gxA==",
+  "dgSpecHash": "dfqV3NQv2KbO/CYNiUL9LhwRAa+B9VnzhQ65T06t4ATUTrjM7G9RzadMLqmRN7uUBJEu7WPkasOLeyUM6iulfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Coneccion_SQL+C#\\Mi_Primer_CRUD\\WinFormsApp_crud\\WinFormsApp_crud\\WinFormsApp_crud.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\git\\Ejercicios_Csharp_Labo2\\Coneccion_SQL+C#\\Mi_Primer_CRUD\\WinFormsApp_crud\\WinFormsApp_crud\\WinFormsApp_crud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

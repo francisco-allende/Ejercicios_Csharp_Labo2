@@ -31,12 +31,14 @@ namespace WinFormsApp_crud
         {
             try
             {
-                string nombre = textBox_Nombre.Text;
-                string apellido = textBox_Apellido.Text;
+                Persona persona = new Persona();
 
-                if (nombre != String.Empty && apellido != String.Empty)
+                persona.Nombre = textBox_Nombre.Text;
+                persona.Apellido = textBox_Apellido.Text;
+
+                if (persona.Nombre != String.Empty && persona.Apellido != String.Empty)
                 {
-                    PersonaADO.Guardar(nombre, apellido);
+                    PersonaADO.Guardar(persona);
                     this.PrintListBox();
                 }
                 else

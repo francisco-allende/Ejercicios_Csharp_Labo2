@@ -22,15 +22,15 @@ namespace Biblio
             command.Connection = connection;
         }
 
-        public static void Guardar(string nombre, string apellido)
+        public static void Guardar(Persona persona)
         {
             try
             {
                 command.Parameters.Clear();
                 connection.Open();
                 command.CommandText = $"INSERT INTO Persona (Nombre, Apellido) VALUES (@nombre, @apellido)";
-                command.Parameters.AddWithValue("@nombre", nombre);
-                command.Parameters.AddWithValue("@apellido", apellido);
+                command.Parameters.AddWithValue("@nombre", persona.Nombre);
+                command.Parameters.AddWithValue("@apellido", persona.Apellido);
                 command.ExecuteNonQuery();
             }
             catch (Exception)

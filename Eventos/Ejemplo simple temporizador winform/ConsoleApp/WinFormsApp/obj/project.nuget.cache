@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVg/BTc+yBBHMLnJ1M5mhcL7d/sdNVF/tkHgLzfzOqHn5QYm1E/+JGhmphrYTVjD3W5gdjP4milXY66TnvVcIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Eventos\\p\\ConsoleApp\\WinFormsApp\\WinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

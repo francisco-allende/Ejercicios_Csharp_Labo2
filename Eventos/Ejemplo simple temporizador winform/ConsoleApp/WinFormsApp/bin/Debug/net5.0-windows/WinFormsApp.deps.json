@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsApp/1.0.0": {
+        "dependencies": {
+          "Biblio": "1.0.0",
+          "ConsoleApp": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp.dll": {}
+        }
+      },
+      "Biblio/1.0.0": {
+        "runtime": {
+          "Biblio.dll": {}
+        }
+      },
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Biblio": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

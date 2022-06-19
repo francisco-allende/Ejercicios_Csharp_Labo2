@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rM3yyhbK1inAfQVL0Nm7zX5CcTgBTlNMrJTyNK84XB9XMZi93b1SvRKPL+cyJ/qOt9QoXAHiiwx/nhFlf7cF/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Delegados_Lambda\\Expresiones Lambda\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

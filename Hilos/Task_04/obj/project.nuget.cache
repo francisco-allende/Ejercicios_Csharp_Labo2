@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3tNVW+nsqE4T/5z0UW6AUn10JVVfBz4qqGDNWCDjI8O2kbv44f7jCYm24jSSAj0EHhlDbRh+SAZlR7qz1XqGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Hilos\\TaskMiniEjemplos\\Task_04\\Task_04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyNJ80oShK7seGWFeTVDkb1lkfim+O86cfcDzT08TD/jE8L3KHAeFtYl+4JYeY3UEmlONj6eYti6iRN/0Z7qCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Centralita\\Centralita\\2. Polimorfismo\\Centralita\\Centralita.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

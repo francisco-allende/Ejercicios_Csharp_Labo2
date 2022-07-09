@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1xlBySnaDOJ5sevibNGKwJAubVHrbWeQeJTO/hCjPjYbSpuvO0/Q778Tzn5BtTkz7l5s8sxyGe3T0JDJkVl6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Centralita\\Centralita\\2B. Polimorfismo ya en winform\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

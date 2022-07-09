@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{19B0EA13-BD07-4A2E-9D03-BD66DFBFEB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblio", "Biblio\Biblio.csproj", "{684A42EC-9A4A-42D2-8EC1-678743AC3566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B0EA13-BD07-4A2E-9D03-BD66DFBFEB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B0EA13-BD07-4A2E-9D03-BD66DFBFEB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B0EA13-BD07-4A2E-9D03-BD66DFBFEB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B0EA13-BD07-4A2E-9D03-BD66DFBFEB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684A42EC-9A4A-42D2-8EC1-678743AC3566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684A42EC-9A4A-42D2-8EC1-678743AC3566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684A42EC-9A4A-42D2-8EC1-678743AC3566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684A42EC-9A4A-42D2-8EC1-678743AC3566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52406D38-7139-4510-A3EC-507B96D48C55}
+	EndGlobalSection
+EndGlobal

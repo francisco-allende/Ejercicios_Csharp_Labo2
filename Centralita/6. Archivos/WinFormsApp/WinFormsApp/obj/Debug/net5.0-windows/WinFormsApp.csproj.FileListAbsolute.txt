@@ -1,0 +1,92 @@
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormLlamador.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormMenu.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormMostrar.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormLlamador.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormMenu.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormMostrar.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormLlamador.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormMenu.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormMostrar.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\bin\Debug\net5.0-windows\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormLlamador.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormMenu.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FormMostrar.resources
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache

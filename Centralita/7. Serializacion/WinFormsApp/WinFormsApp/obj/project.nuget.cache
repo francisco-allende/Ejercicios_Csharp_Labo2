@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrQ9Dm5Qd0dmpinu8tHYIIszS8p8X6/hCBahMUOVFln7mcQOtobl5ol7bSFwvCCGp7hrSbc4nK9aJYe+JsFIEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Centralita\\Centralita\\7. Serializacion\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

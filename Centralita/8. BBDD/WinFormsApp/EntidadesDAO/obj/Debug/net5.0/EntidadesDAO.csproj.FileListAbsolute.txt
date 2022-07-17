@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\bin\Debug\net5.0\ref\EntidadesDAO.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\obj\Debug\net5.0\ref\EntidadesDAO.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.pdb

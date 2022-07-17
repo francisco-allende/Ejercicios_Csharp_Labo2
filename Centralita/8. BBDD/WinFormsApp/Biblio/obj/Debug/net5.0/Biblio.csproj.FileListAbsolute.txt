@@ -1,0 +1,84 @@
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\bin\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\obj\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\2B. Polimorfismo ya en winform\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\bin\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\obj\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\3. Exceptions\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\bin\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\obj\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\4. Test Unitarios\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\bin\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\obj\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\5. Interfaces\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\bin\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\obj\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\6. Archivos\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\bin\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\obj\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\7. Serializacion\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.deps.json
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\bin\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\bin\Debug\net5.0\Biblio.pdb
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\obj\Debug\net5.0\ref\Biblio.dll
+C:\Users\Usuario\Desktop\Centralita\Centralita\8. BBDD\WinFormsApp\Biblio\obj\Debug\net5.0\Biblio.pdb

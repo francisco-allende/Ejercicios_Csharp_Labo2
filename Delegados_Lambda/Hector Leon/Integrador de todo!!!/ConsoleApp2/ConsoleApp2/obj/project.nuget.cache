@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "emNWBv/QBZ5bIcP95l5YfAVkgaJGgZGDuAneNVPXGwdAmky3v0R7GLvxUtFSj3GRFd0Z7hk83OSBmjzIp+ubew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\ordeno array con lambda y delegados\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

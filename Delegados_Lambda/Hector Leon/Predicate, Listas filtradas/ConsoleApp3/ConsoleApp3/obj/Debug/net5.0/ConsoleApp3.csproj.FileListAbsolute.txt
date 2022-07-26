@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\Usuario\Desktop\ordeno array con lambda y delegados\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache

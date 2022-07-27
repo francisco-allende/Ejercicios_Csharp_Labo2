@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0j7CP8Aar0xZq0TiDT7GKkXjEEU1yAZYrGy/+kTRmcQQlKbW9btcr89t93eBxj48cyiPFfACrvpoUjddosSBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\git ejercicios piola\\Ejercicios_Csharp_Labo2\\Eventos\\Reloj\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

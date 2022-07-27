@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gt7BK5aE+XLmDqqOqDiYiqHC7JMpJWA3VCZ5s5hWgwZyGwM5KOMZ5uAkwaBI+Y0+52VyU9i9dIe4kwMz47biwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Hilos\\Simulador atencion cliente\\ConsoleApp\\Biblio\\Biblio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

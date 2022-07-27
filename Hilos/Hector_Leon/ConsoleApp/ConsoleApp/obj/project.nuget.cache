@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvZAuCcLBMrmrTSvVSWWPwXd8jvT7zXs9JLVOdGd+3hd4tt9uUoJj99L8/lEvMeIEYTlCiPHmhB5Rab3ryV/8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\UTN tecnicatura\\2do cuatri\\Labo 2\\EJERCICIOS PIOLA para entender yo\\Hilos\\Hector Leon\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
